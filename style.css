@@ -419,6 +419,11 @@ nav.show div.icon-close {
   margin-right: 0.5rem;
 }
 
+#testimonials .box {
+  display: flex;
+  flex-direction: column;
+}
+
 /* swiper */
 .swiper-slide {
   height: auto;
